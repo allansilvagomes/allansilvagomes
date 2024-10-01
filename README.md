@@ -6,7 +6,7 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitee)](https://github.com/allanDs21)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/allansmithrp)
 
-![Allan GitHub stats](https://github-readme-stats.vercel.app/api?username=allanDs21&show_icons=true&theme=radical)
+![Allan GitHub stats](https://github-readme-stats.vercel.app/api?username=allansilvagomes&show_icons=true&theme=radical)
 
 ### Tecnologias que uso no meu dia
 
