@@ -30,7 +30,6 @@ Gosto de ficar fazendo atividades diferentes ao longo do dia e senter que meu te
 
 Ultimamente tenho visto muito sobre Clean Coding, onde organizando meu codigo obtenho uma melhor manutenção e escalabilidade. Por exemplo, garanto a modularidade separando preocupações, como manter arquivos específicos para cores do projeto, arquivos personalizados e componentes que possam ser reaproveitados.
 
-    </div>
 </div>
 
 ## 📋 <a name="table">Sumary</a>
