@@ -36,12 +36,7 @@ Ultimamente tenho visto muito sobre Clean Coding, onde organizando meu codigo ob
 
 1. 🤖 [Introdução](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Recursos](#features)
-4. 🤸 [Como usar](#quick-start)
-5. 💾 [Variáveis de Ambiente](#envs)
-6. 📅 [Versões](#versions)
-7. 🤝 [Contribuições](#contributing)
-8. 👥 [Autores](#authors)
+
 
 
 ## <a name="introduction">🤖 Introdução</a>
