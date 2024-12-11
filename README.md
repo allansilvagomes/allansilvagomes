@@ -1,27 +1,63 @@
+<div align="center">
+  <br />
+    <a href="#" target="_blank">
+      <img src="https://github.com/orafael-almeida/readme-projects-template/blob/main/images/banner.png?raw=true" alt="Project Banner">
+    </a>
+  <br />
 
-### Olá! Eu sou o Allan Silva ✌🏿
+  <div>
+    <img src="https://camo.githubusercontent.com/8e77945348567678f7ac7879dfb294400492ed429d16392c98db21a7c00934d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="Typescript" />
+    <img src="https://camo.githubusercontent.com/07858da9ad3cd19f1e10777508bf1b5470f22f8eb0b3ceaa425e2ff85461e30e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" 
+    alt="Python" />
+    <img src="https://img.shields.io/badge/-Node_js-black?style=for-the-badge&logoColor=white&logo=node.js&color=6DA55F" alt="Node.js" />
+     <img src="https://camo.githubusercontent.com/10c7a8fa2cf317cc7c4af6f13efac086a9f0ea010f0dfc746c94e5cde310b339/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" 
+     alt="HTML" />
+     <img src="https://camo.githubusercontent.com/d084876a79080e8a59780dc208535db5feb2c75e973c809393db655d65eb731f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3233393132303f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" 
+     alt="CSS.js" />
+    <img src="https://camo.githubusercontent.com/b50d4b5449ac9bed0fc02238425fd56db93011d5019563595023ff0bb1a02162/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="Java.js" />
+  </div>
+<br/><br/></br>
+ 
+  <h1 align="center">Allan Silva</h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_2l021/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-delon-b2b07423b/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitee)](https://github.com/allanDs21)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/allansmithrp)
+   <div align="center">
+Sou estudante de Sistemas de informação, atualmente vivo no Brasil, possuo grande paixão por tecnologia, aprendizagem e a busca de soluções digitais de impacto.
 
-![Allan GitHub stats](https://github-readme-stats.vercel.app/api?username=allansilvagomes&show_icons=true&theme=radical)
+Minha jornada Web começou com projetos simples em JavaScript, e com o tempo, decidi expandir meu conhecimento e habilidades, visando me incluir em ferramentas e estruturas modernas.
 
-### Tecnologias que uso no meu dia
 
-<div style="display: inline_block"><br/>
-<img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img align="center" alt="Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="Html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="Py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whitee"/>
-</div><br/>
+Gosto de ficar fazendo atividades diferentes ao longo do dia e senter que meu tempo esta sendo bem aproveitado. Meu jeito proativo e curioso me impulsionam cada vez mais e com isto sei que cresço, permitindo abraçar novos desafios e melhorar sempre.
 
-Apaixonado por tecnologia, educação e por buscar aperfeiçoamento em meio a programação!
+Ultimamente tenho visto muito sobre Clean Coding, onde organizando meu codigo obtenho uma melhor manutenção e escalabilidade. Por exemplo, garanto a modularidade separando preocupações, como manter arquivos específicos para cores do projeto, arquivos personalizados e componentes que possam ser reaproveitados.
 
-## 
+    </div>
+</div>
 
+## 📋 <a name="table">Sumary</a>
+
+1. 🤖 [Introdução](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Recursos](#features)
+4. 🤸 [Como usar](#quick-start)
+5. 💾 [Variáveis de Ambiente](#envs)
+6. 📅 [Versões](#versions)
+7. 🤝 [Contribuições](#contributing)
+8. 👥 [Autores](#authors)
+
+
+## <a name="introduction">🤖 Introdução</a>
+
+Sou profundamente curioso e procuro constantemente oportunidades para crescer. Acredito que o conhecimento é a chave para resolver problemas complexos e superar qualquer desafio. A colaboraçao é essencial no meu fluxo de trabalho e valorizo a comunicação clara e transparência dentro da equipe. Com isto, sei que criamos um ambiente onde podemos se apoiar e contar uns com os outros quando necessário.
+
+Meu objetivo final é poder conseguir um emprego onde me ajude a obter experiência, crescer e me desenvolver cada vez mais, contribuindo com as soluções digitais e em grandde escala enquanto aprendo com profissionais experientes.
+
+<a href="https://github.com/orafael-almeida/readme-projects-template" target="_blank"><img src="https://img.shields.io/badge/Deixar_uma_estrela_:)-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+## <a name="tech-stack">⚙️ Tech Stack</a>
+
+- TypeScript
+- Python
+- Node.js
+- Html5 / Css
+- Css
+- JavaScript
