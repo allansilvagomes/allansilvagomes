@@ -35,7 +35,6 @@ Ultimamente tenho visto muito sobre Clean Coding, onde organizando meu codigo ob
 ## 📋 <a name="table">Sumary</a>
 
 1. 🤖 [Introdução](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
 
 
 
@@ -47,11 +46,5 @@ Meu objetivo final é poder conseguir um emprego onde me ajude a obter experiên
 
 <a href="https://github.com/allansilvagomes" target="_blank"><img src="https://img.shields.io/badge/Deixar_uma_estrela_:)-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack">⚙️ Allan Silva</a>
 
-- TypeScript
-- Python
-- Node.js
-- Html5 / Css
-- Css
-- JavaScript
