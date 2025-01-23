@@ -26,7 +26,7 @@ Sou estudante de Sistemas de informação, atualmente vivo no Brasil, possuo gra
 Minha jornada Web começou com projetos simples em JavaScript, e com o tempo, decidi expandir meu conhecimento e habilidades, visando me incluir em ferramentas e estruturas modernas.
 
 
-Gosto de ficar fazendo atividades diferentes ao longo do dia e senter que meu tempo esta sendo bem aproveitado. Meu jeito proativo e curioso me impulsionam cada vez mais e com isto sei que cresço, permitindo abraçar novos desafios e melhorar sempre.
+Gosto de ficar fazendo atividades diferentes ao longo do dia e sentir que meu tempo esta sendo bem aproveitado. Meu jeito proativo e curioso me impulsionam cada vez mais e com isto sei que cresço, permitindo abraçar novos desafios e melhorar sempre.
 
 Ultimamente tenho visto muito sobre Clean Coding, onde organizando meu codigo obtenho uma melhor manutenção e escalabilidade. Por exemplo, garanto a modularidade separando preocupações, como manter arquivos específicos para cores do projeto, arquivos personalizados e componentes que possam ser reaproveitados.
 
