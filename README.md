@@ -20,7 +20,7 @@ Essa experiência me deu uma visão de ponta a ponta sobre a operação de T.I.,
 
 ## 🛠️ Skills e Tecnologias
 
-Estou focado(a) em desenvolvimento, com ênfase nas seguintes tecnologias:
+Estou focado em desenvolvimento, com ênfase nas seguintes tecnologias:
 
 | Categoria | Linguagens / Ferramentas | Nível (Atual) |
 | :--- | :--- | :--- |
