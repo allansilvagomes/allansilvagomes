@@ -46,5 +46,5 @@ Estou sempre disposto a aprender e contribuir em novos projetos!
 
 ### Conecte-se Comigo:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/allansilvagomes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-delon-b2b07423b/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allangomes0021@gmail.com)
